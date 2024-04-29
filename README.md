@@ -13,4 +13,9 @@
     2. Install the required dependencies:
         ```
         pip install -r requirements.txt
-        ```
+
+    !!! Can't install pytube
+    install pytube
+        pip install pytube
+
+    ```
